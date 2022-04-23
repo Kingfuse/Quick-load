@@ -1,0 +1,19 @@
+{
+    "version": 4,
+    "data": {
+        "enabled": true,
+        "loadExtra": false,
+        "safeMode": true,
+        "blockedZones": [
+            9950
+        ],
+        "loadExtraMs": {
+            "value": 1000,
+            "name": "Load Extra Ms"
+        },
+        "loadDistance": {
+            "value": 1000,
+            "name": "Load Distance"
+        }
+    }
+}
